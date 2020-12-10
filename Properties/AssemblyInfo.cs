@@ -23,7 +23,7 @@
 // 
 // Version: 20.12.10
 // EndLic
-???using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -31,11 +31,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Antonius")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("String searcher")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Antonius")]
-[assembly: AssemblyCopyright("Copyright ??  2020")]
+[assembly: AssemblyCopyright("Copyright   2020  Released under the terms of the GPL3")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
