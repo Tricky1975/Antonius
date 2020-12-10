@@ -3,3 +3,4 @@ obj
 .vs
 MKL_*
 *.MKL.*
+*.user
