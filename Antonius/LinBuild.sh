@@ -22,7 +22,7 @@
 # 	Please note that some references to data like pictures or audio, do not automatically
 # 	fall under this licenses. Mostly this is noted in the respective files.
 # 
-# Version: 24.10.25 I
+# Version: 24.10.25 II
 # End License
 mkdir LinExe
-gcc -o LinExe/antonius "../../../Libs/Units/Source/SlyvArgParse.cpp" "../../../Libs/Units/Source/SlyvDir.cpp" "../../../Libs/Units/Source/SlyvDirry.cpp" "../../../Libs/Units/Source/SlyvQCol.cpp" "../../../Libs/Units/Source/SlyvSTOI.cpp" "../../../Libs/Units/Source/SlyvStream.cpp" "../../../Libs/Units/Source/SlyvString.cpp" "../../../Libs/Units/Source/SlyvTime.cpp" "../../../Libs/Units/Source/SlyvVolumes.cpp" "Antonius.cpp" -I../../../Libs/Units/Headers
+g++ -o LinExe/antonius "../../../Libs/Units/Source/SlyvArgParse.cpp" "../../../Libs/Units/Source/SlyvDir.cpp" "../../../Libs/Units/Source/SlyvDirry.cpp" "../../../Libs/Units/Source/SlyvQCol.cpp" "../../../Libs/Units/Source/SlyvSTOI.cpp" "../../../Libs/Units/Source/SlyvStream.cpp" "../../../Libs/Units/Source/SlyvString.cpp" "../../../Libs/Units/Source/SlyvTime.cpp" "../../../Libs/Units/Source/SlyvVolumes.cpp" "Antonius.cpp" -I../../../Libs/Units/Headers
