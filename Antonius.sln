@@ -1,25 +1,31 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30413.136
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antonius", "Antonius.csproj", "{861935AA-4C54-410E-AA1F-33095AACDDB1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Antonius", "Antonius\Antonius.vcxproj", "{09D8D30F-6AB9-46D0-98D1-4FAE5C11E9F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{861935AA-4C54-410E-AA1F-33095AACDDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{861935AA-4C54-410E-AA1F-33095AACDDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{861935AA-4C54-410E-AA1F-33095AACDDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{861935AA-4C54-410E-AA1F-33095AACDDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D8D30F-6AB9-46D0-98D1-4FAE5C11E9F4}.Debug|x64.ActiveCfg = Debug|x64
+		{09D8D30F-6AB9-46D0-98D1-4FAE5C11E9F4}.Debug|x64.Build.0 = Debug|x64
+		{09D8D30F-6AB9-46D0-98D1-4FAE5C11E9F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{09D8D30F-6AB9-46D0-98D1-4FAE5C11E9F4}.Debug|x86.Build.0 = Debug|Win32
+		{09D8D30F-6AB9-46D0-98D1-4FAE5C11E9F4}.Release|x64.ActiveCfg = Release|x64
+		{09D8D30F-6AB9-46D0-98D1-4FAE5C11E9F4}.Release|x64.Build.0 = Release|x64
+		{09D8D30F-6AB9-46D0-98D1-4FAE5C11E9F4}.Release|x86.ActiveCfg = Release|Win32
+		{09D8D30F-6AB9-46D0-98D1-4FAE5C11E9F4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5C6AE187-9F61-4A84-9AC6-7279CCB88D79}
+		SolutionGuid = {8E817616-0AFD-4DEF-88DE-0877ADD73A34}
 	EndGlobalSection
 EndGlobal

@@ -4,3 +4,8 @@ obj
 MKL_*
 *.MKL.*
 *.user
+CS_Archive.jcr
+WinExe
+LinExe
+MacExe
+x64
