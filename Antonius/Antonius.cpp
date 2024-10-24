@@ -1,6 +1,6 @@
 // License:
 // 
-// Syldeyn
+// Antonius
 // Searches for strings in files in directories
 // 
 // 
@@ -22,7 +22,7 @@
 // 	Please note that some references to data like pictures or audio, do not automatically
 // 	fall under this licenses. Mostly this is noted in the respective files.
 // 
-// Version: 24.10.24 I
+// Version: 24.10.25
 // End License
 
 // Please note, this code has been translated (manually) from C# to C++
