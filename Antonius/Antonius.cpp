@@ -36,6 +36,8 @@ using System.Text;
 using TrickyUnits;
 */   // Nice to keep as a memory :)
 
+#include <math.h>
+
 #include <SlyvArgParse.hpp>
 #include <SlyvQCol.hpp>
 #include <SlyvDir.hpp>
