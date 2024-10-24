@@ -5,11 +5,13 @@ This really isn't much, but it can be handy if you need this!
 
 Antonius is a CLI tool, so you need to use it from the command prompt.
 
-Since Antonius has been coded in C# it requires .NET to run. (Required version is 4.8)
+# Compile
+Antonius has been written in C++ with the Slyvina framework.
+You need a dedicated directory to compile Slyvina projects and from that dir go this way
+```powershell
+md Tools
+md Libs
+git clone "https://github.com/Tricky1975/Antonius" "Tools/Antonius"
+git clone "https://github.com/Slyvina/Libs/Units" "Libs/Units"
+```
 
-Please note that you do need TrickyUnits to compile Antonius and it needs to be in Antonius' parent folder in the folder TrickyUnits.
-Like this:
-F:\Projects\Antonius <- Antonius source
-F:\Projects\TrickyUnits <- Tricky Units
-
-When you download Tricky's Units, make sure you have the package for C# and not for C++, as the latter really won't work here.
