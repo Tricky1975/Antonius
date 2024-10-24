@@ -16,4 +16,9 @@ git clone "https://github.com/Slyvina/Libs/Units" "Libs/Units"
 ```
 
 For Windows you can best open Antonius.sln and compile Antonius in Visual Studio. Make sure it's configured for Release and not for Debug!
-For Linux I'll provide instructions later.
+For Linux make sure you are in the Tools/Antonius/Antonius folder and run the shellscript LinBuild.sh from there. You may need to type "sh LinBuild.sh" as the file was set up in Windows so I could not add the 'x' attribute.
+
+# Name
+Antonius was named after Antony of Padua (In Dutch: Antonius van Padua), as a kind of memento to my grandmother who always prayed to him when she lost something.
+In Dutch the rhyme "Heilige Antonius, beste vrind, maak dat ik m'n ... vind" (Holy Antony, dear friend, make that I find my ....) is very common when searching for lost items.
+So the basic belief that Anthony would come to your help when looking for something, the name was actually obvious choice for this little search tool.
